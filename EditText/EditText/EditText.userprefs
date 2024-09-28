@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{9795AEDB-F984-456D-A918-B47A6169CEE1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ViewController.cs">
+    <Files>
+      <File FileName="CustomCell.cs" Line="34" Column="5" />
+      <File FileName="ViewController.cs" Line="66" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EditText" expanded="True">
+            <Node name="EditText" expanded="True">
+              <Node name="ViewController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Divakar/Documents/Ashok/EditText/EditText/ViewController.cs" line="66" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.EditText PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FAD9CEE3-84CB-49DC-8887-7A03FC24650B" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
